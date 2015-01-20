@@ -17,5 +17,9 @@ Delete item = long press on the item.
 Edit item = single press on the item.
 
 
+![Video Walkthrough](anim_todolistpro.gif.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 
