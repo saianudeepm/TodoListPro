@@ -1,6 +1,8 @@
 # TodoListPro
 
-This is a simple todo app that can be used to track some todo items
+This is a Android demo application called "TodoListPro" that can be used to track some todo items
+
+Time spent: 4 hours spent in total
 
 Features:
 ---------
